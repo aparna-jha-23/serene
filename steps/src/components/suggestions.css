@@ -1,0 +1,44 @@
+
+.content{
+    margin-top: 200px;
+    display: flex;
+    flex-direction: row;
+    min-width: 80%;
+    
+}
+.leftside{
+    padding-left: 100px;
+    padding-right: 50px;
+    margin-left: 200px;
+}
+
+.rightside{
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-left: 10%;
+    
+    
+
+}
+.text{
+    box-sizing: border-box;
+
+position: absolute;
+width: 700px;
+height: 700px;
+margin-left: 0%;
+top: 215px;
+
+border: 2px solid #B0855B;
+border-radius: 140px 0px;
+
+
+}
+.rightside{
+    max-width: 50%;
+    left: 0;
+}
+.text{
+    border: 2px solid black;
+    border-radius: 100 0 100 0;
+}

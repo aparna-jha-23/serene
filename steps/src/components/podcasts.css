@@ -1,0 +1,80 @@
+.section1{
+    margin-top: 5%;
+    padding-top: 10px;
+    
+    
+}
+.heading{
+    margin-left: 40%;
+}
+.reccos{
+    display: flex;
+    flex-direction: row;
+    min-width: 80%;
+    margin-left: 30%;
+
+    
+    
+}
+h1{
+    font-family: serif;
+    font-weight: bold;
+    
+
+}
+.box1{
+    padding: 30px;
+    width: 260px;
+    height: 260px;
+    border: 1px solid black;
+    border-radius: 100%;
+    margin: 50px;
+    overflow: hidden;
+    object-fit: fill;
+}
+.box2{
+    padding: 30px;
+    width: 260px;
+    height: 260px;
+    border: 1px solid black;
+    border-radius: 100%;
+    margin: 50px;
+    overflow: hidden;
+    object-fit: fill;
+}
+.box3{
+    padding: 30px;
+    width: 260px;
+    height: 260px;
+    border: 1px solid black;
+    border-radius: 100%;
+    margin: 50px;
+    overflow: hidden;
+    object-fit: fill;
+}
+
+#pod1{
+    height: 250px;
+    width:250px;
+    object-fit:fill;
+    align-items: center;
+
+}
+
+#pod2 {
+    height: 250px;
+    width:250px;
+    object-fit:fill;
+
+}
+
+#pod3 {
+    height: 250px;
+    width:250px;
+    object-fit:fill;
+
+}
+
+.container{
+    min-width: 100px;
+}
